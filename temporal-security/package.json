@@ -1,0 +1,11 @@
+{
+  "name": "temporal-security",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Temporal multi-signal resource-exhaustion detection research platform",
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "test": "pnpm -r --if-present test",
+    "lint": "pnpm -r --if-present lint"
+  }
+}
